@@ -1,16 +1,14 @@
-# mvvm
+# MVVM (Model-View-ViewModel) Architectural Patter
 
-A new Flutter project.
+## For baseURL
+https://reqres.in/
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
 
-## Getting Started
+## For moviesListURL
 
-This project is a starting point for a Flutter application.
+https://dea91516-1da3-444b-ad94-c6d0c4dfab81.mock.pstmn.io/movies_list
 
-A few resources to get you started if this is your first Flutter project:
+## Converting JSON to Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://javiercbk.github.io/json_to_dart/
