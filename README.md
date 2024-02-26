@@ -1,7 +1,10 @@
 # MVVM (Model-View-ViewModel) Architectural Patter
 
 ## For baseURL
+
 https://reqres.in/
+
+### Email and Password
     "email": "eve.holt@reqres.in",
     "password": "cityslicka"
 
